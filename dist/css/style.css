@@ -1530,7 +1530,7 @@ label {
 @media (min-width: 1025px) {
     .hero {
         text-align: left;
-        padding-top: 80px;
+        padding-top: 20px;
         padding-bottom: 80px;
     }
     .hero::before {
@@ -1543,7 +1543,7 @@ label {
         display: flex;
     }
     .hero-copy {
-        padding-top: 60px;
+        padding-top: 20px;
         padding-right: 88px;
         min-width: 600px;
     }
