@@ -1324,8 +1324,8 @@ label {
 }
 
 .button-primary {
-    background: #3b5998;
-    background: linear-gradient(65deg, #3b5998 0, #3b5998 100%);
+    background: #0957D9;
+    background: linear-gradient(65deg, #0957D9 0, #0957D9 100%);
 }
 
 .button-primary:hover {
